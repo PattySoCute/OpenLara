@@ -1,6 +1,6 @@
 # OpenLara
 Classic Tomb Raider open-source engine
-ได้เเล้ว ยะหู้
+ได้เเล้ว ยะหู้!
 [WebGL build with demo level](http://xproger.info/projects/OpenLara/)
 
 [Standalone version](https://github.com/XProger/OpenLara/releases/tag/latest)
